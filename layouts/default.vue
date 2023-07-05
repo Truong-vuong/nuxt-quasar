@@ -15,6 +15,6 @@
 <script setup>
 const route = useRoute();
 const router = useRouter();
-console.log('route', route)
+// console.log('route', route)
 // console.log('router', router)
 </script>
